@@ -532,6 +532,7 @@ PRODUCT_PACKAGES += \
     libAF \
     libBlinkStub \
     libFlickerDet \
+    libQnnHtpStub \
     libI420colorconvert \
     libSNPE \
     lib_sr_models \
